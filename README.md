@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Netflix colne](http://127.0.0.1:5500/index.html)**
+- 🔭 I’m currently working on **[Netflix colne](https://github.com/subhendu-1/Netflix-Clone)**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
