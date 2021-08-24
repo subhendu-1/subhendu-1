@@ -18,6 +18,9 @@
 
 - ⚡ Fun fact **I play games and go to the GYM very often.**
 
+## 🚀 *Trophies*
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=subhendu-1" alt="subhendu adak&theme=react&hide_border=true&bg_color=0D1117" /></a> </p>
+
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
