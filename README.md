@@ -45,9 +45,9 @@
     </a>
 </p>
 
-## 📊 My Github Stats
+<!-- ## 📊 My Github Stats -->
 
-  <br/>
+  <!-- <br/>
     <a href="https://github.com/subhendu-1/github-readme-stats"><img alt="Subhendu Adak's Github Stats" src="https://github-readme-stats.vercel.app/api?username=subhendu-1&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/subhendu-1/github-readme-stats"><img alt="Subhendu Adak's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhendu-1&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
@@ -60,7 +60,7 @@
 <a href="https://github.com/subhendu-1/github-readme-activity-graph"><img alt="Subhendu Adak's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=subhendu-1&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
-<br/>
+<br/> -->
 
 ## Connect with me:
 <p align="left">
